@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="400"/>
 
 ## About Me
 

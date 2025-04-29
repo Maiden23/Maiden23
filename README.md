@@ -51,13 +51,5 @@ Here are some of the cool things I’ve built:
 
 ---
 
-## Let’s Connect!
-
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/angel-maria-stanley-218a0893/))
-- 🐦 [Twitter]([https://twitter.com/your-handle](https://x.com/AngelStanl90925))
-- 📧 Email: angelmariastanly@gmail.com
-
----
-
  *Thanks for visiting my profile! Feel free to explore my repositories and drop a star if something helps you.*
 

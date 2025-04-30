@@ -8,7 +8,6 @@ I'm a passionate and curious **Data Science & Machine Learning enthusiast** curr
 
 -  I'm a Btech Student , with a passion in learning in Python, statistics, and ML.
 -  Currently exploring **Web Development (MERN)** and **ML**.
--  Based in [Your City, Country], open to remote opportunities and collaborations.
 
 ---
 

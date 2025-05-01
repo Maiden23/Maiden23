@@ -7,7 +7,7 @@
 I'm a passionate and curious **Data Science & Machine Learning enthusiast** currently diving deep into building real-world AI applications. From training deep learning models to deploying intelligent web apps, I love solving problems with code and creativity. 
 
 -  I'm a Btech Student , with a passion in learning in Python, statistics, and ML.
--  Currently exploring **Web Development (MERN)** and **ML**.
+-  Currently exploring **LangChain**, **LLMS** and **ML**.
 
 ---
 
